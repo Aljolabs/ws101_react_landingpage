@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ws101_react_landingpage/static/css/main.cb942d97.css",
+    "main.js": "/ws101_react_landingpage/static/js/main.19d5445a.js",
+    "static/media/code-1.png": "/ws101_react_landingpage/static/media/code-1.517db55db4dbb3c937dd.png",
+    "static/media/back-end.webp": "/ws101_react_landingpage/static/media/back-end.9fc030dbe9f226156d22.webp",
+    "static/media/esmil.jpg": "/ws101_react_landingpage/static/media/esmil.674db5eed4585d638f11.jpg",
+    "static/media/lalake.jpg": "/ws101_react_landingpage/static/media/lalake.67b28c760e8665a0986b.jpg",
+    "static/media/front-end.png": "/ws101_react_landingpage/static/media/front-end.9dcdae97a382e7fd3a7a.png",
+    "static/media/logo-pink-removebg-preview.png": "/ws101_react_landingpage/static/media/logo-pink-removebg-preview.2fbcc0c09f011dba936b.png",
+    "static/media/isaapa - Copy.png": "/ws101_react_landingpage/static/media/isaapa - Copy.35f5b3ea0931969131d7.png",
+    "index.html": "/ws101_react_landingpage/index.html",
+    "main.cb942d97.css.map": "/ws101_react_landingpage/static/css/main.cb942d97.css.map",
+    "main.19d5445a.js.map": "/ws101_react_landingpage/static/js/main.19d5445a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb942d97.css",
+    "static/js/main.19d5445a.js"
+  ]
+}
